@@ -1,4 +1,4 @@
-# BTC_Price_SMS
+# BTC Price SMS
 > Get current price of Bitcoin via SMS
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
