@@ -1,0 +1,28 @@
+{
+  "name": "BTC_Price_SMS",
+  "version": "0.0.1",
+  "description": "Get the current Bitcoin price sent to you on the Coinbase exchange using Twilio's node.js API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ByteGold/BTC_Price_SMS.git"
+  },
+  "engines": {
+    "node": "0.12.5",
+    "npm": "2.11.x"
+  },
+  "author": "ByteGold",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ByteGold/BTC_Price_SMS.git/issues"
+  },
+  "homepage": "https://github.com/ByteGold/BTC_Price_SMS#readme",
+  "dependencies": {
+    "coinbase-exchange": "0.2.2",
+    "express": "4.14.0",
+    "twilio": "2.11.1"
+  }
+}
